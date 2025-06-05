@@ -171,7 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Developer**: Zeyad ElFaramawy
 - **Email**: zeyadelfaramawy@gmail.com
 - **GitHub**: [@Zeyad-GenAI](https://github.com/Zeyad-GenAI)
-- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/zeyad-el-faramawy-900547342)
+- **LinkedIn**: [Zeyad ElFaramawy](www.linkedin.com/in/zeyad-el-faramawy-900547342)
 
 ## 🙏 Acknowledgments
 
