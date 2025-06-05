@@ -133,8 +133,8 @@ flutter test --coverage
 
 ## 📱 Screenshots
 
-| Home Screen | Product Details | Shopping Cart | User Profile |
-|-------------|-----------------|---------------|--------------|
+| Home Screen | Product Details | Shopping Cart |
+|-------------|-----------------|---------------|
 | ![Home](screenshots/home_screen.png) | ![Product](screenshots/product_details.png) | ![Cart](screenshots/cart_screen.png) |
 
 ## 🚀 Build & Release
