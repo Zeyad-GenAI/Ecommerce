@@ -135,7 +135,7 @@ flutter test --coverage
 
 | Home Screen | Product Details | Shopping Cart | User Profile |
 |-------------|-----------------|---------------|--------------|
-| ![Home](screenshots/home.png) | ![Product](screenshots/product.png) | ![Cart](screenshots/cart.png) | ![Profile](screenshots/profile.png) |
+| ![Home](screenshots/home_screen.png) | ![Product](screenshots/product_details.png) | ![Cart](screenshots/cart_screen.png) |
 
 ## 🚀 Build & Release
 
