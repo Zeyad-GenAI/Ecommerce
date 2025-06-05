@@ -168,10 +168,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Developer**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- **Developer**: Zeyad ElFaramawy
+- **Email**: zeyadelfaramawy@gmail.com
+- **GitHub**: [@Zeyad-GenAI](https://github.com/Zeyad-GenAI)
+- **LinkedIn**: [Your LinkedIn](www.linkedin.com/in/zeyad-el-faramawy-900547342)
 
 ## 🙏 Acknowledgments
 
